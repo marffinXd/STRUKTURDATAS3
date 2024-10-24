@@ -1,0 +1,1 @@
+#include <conio.h> // Pastikan untuk menggunakan ini untuk getch()
